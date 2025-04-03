@@ -1,37 +1,31 @@
 # ResumeFlow: An LLM-facilitated Pipeline for Personalized Resume Generation and Refinement 
 
-[![Demo Page](https://img.shields.io/badge/Project-Demo-FF4B4B?logo=streamlit)](https://resumeflow.streamlit.app/)
-[![ACM Digital Library](https://img.shields.io/badge/ACM-0085CA?logo=acm&logoColor=fff&style=flat)](https://dl.acm.org/doi/10.1145/3626772.3657680)
-[![arxiv paper](https://img.shields.io/badge/arXiv-Paper-B31B1B?logo=arxiv)](https://arxiv.org/abs/2402.06221)
-[![PyPI Latest Release](https://img.shields.io/pypi/v/zlm.svg?label=PyPI&color=3775A9&logo=pypi)](https://pypi.org/project/zlm/)
-[![PyPI Downloads](https://img.shields.io/pypi/dm/zlm.svg?label=PyPI%20downloads&color=blueviolet&target=blank)](https://pypi.org/project/zlm/)
-[![GitHub issues open](https://img.shields.io/github/issues/Ztrimus/job-llm.svg?color=orange&label=Issues&logo=github)](https://github.com/Ztrimus/job-llm/issues)
-[![License: MIT](https://img.shields.io/badge/License-MIT-success.svg?logo)](https://github.com/Ztrimus/job-llm/blob/main/LICENSE)
+[![Demo Page](https://img.shields.io/badge/Project-Demo-FF4B4B?logo=streamlit)](https://resumeoverflow-web.streamlit.app/)
+<!-- [![ACM Digital Library](https://img.shields.io/badge/ACM-0085CA?logo=acm&logoColor=fff&style=flat)](https://dl.acm.org/doi/10.1145/3626772.3657680) -->
+<!-- [![arxiv paper](https://img.shields.io/badge/arXiv-Paper-B31B1B?logo=arxiv)](https://arxiv.org/abs/2402.06221) -->
+<!-- [![PyPI Latest Release](https://img.shields.io/pypi/v/zlm.svg?label=PyPI&color=3775A9&logo=pypi)](https://pypi.org/project/zlm/) -->
+<!-- [![PyPI Downloads](https://img.shields.io/pypi/dm/zlm.svg?label=PyPI%20downloads&color=blueviolet&target=blank)](https://pypi.org/project/zlm/) -->
+[![GitHub issues open](https://img.shields.io/github/issues/Ztrimus/job-llm.svg?color=orange&label=Issues&logo=github)](https://github.com/Ganeshy93/Resume_Overflow/issues)
+<!-- [![License: MIT](https://img.shields.io/badge/License-MIT-success.svg?logo)](https://github.com/Ztrimus/job-llm/blob/main/LICENSE) -->
 
 [![Click here to see image of "Auto Job Aligned Personalized Resume Generation Pipeline"](https://github.com/Ztrimus/job-llm/blob/main/resources/auto_job_apply_workflow.jpg)](https://github.com/Ztrimus/job-llm/blob/main/resources/auto_job_apply_workflow.jpg)
 <br>For **Video Demonstration** visit the YouTube link: https://youtu.be/Agl7ugyu1N4
 
 Project can be:
- - Access as a **Web Tool** from https://resumeflow.streamlit.app/
- - Install as a **Python Package** from https://pypi.org/project/zlm/
- - Download as **Source Code** from https://github.com/Ztrimus/job-llm.git
+ - Access as a **Web Tool** from https://resumeoverflow-web.streamlit.app/
+ <!-- - Install as a **Python Package** from https://pypi.org/project/zlm/ -->
+ - Download as **Source Code** from https://github.com/Ganeshy93/Resume_Overflow.git
  
-All other known bugs, fixes, feedbacks, and feature requests can be reported on the [GitHub issues](https://github.com/Ztrimus/job-llm/issues) page.
+All other known bugs, fixes, feedbacks, and feature requests can be reported on the [GitHub issues](https://github.com/Ganeshy93/Resume_Overflow/issues) page.
 
 **Empower others, just like they helped you!** Contribute to this open source project & make a difference. ✨ *Create a branch, improve the code, & raise a pull request!*
-
-#### Author & Contributor List
-
- - [Saurabh Zinjad](https://linkedin.com/in/saurabhzinjad) | [Ztrimus](https://github.com/Ztrimus) | szinjad@asu.edu
- - [Amey Bhilegaonkar](https://www.linkedin.com/in/amey-bhilegaonkar) | [ameygoes](https://github.com/ameygoes) | abhilega@asu.edu
- - [Amrita Bhattacharjee](https://www.linkedin.com/in/amritabh) | [Amritabh](https://github.com/Amritabh) | abhatt43@asu.edu
 
 ## 1. Introduction:
 ### 1.1. Our Proposal
 We're aiming to create a automated system that makes applying for jobs a breeze. Job hunting has many stages, and we see a chance to automate things and use LLM (Language Model) to make it even smoother. We're looking at different ways, both the usual and some new ideas, to integrate LLM into the job application process. The goal is to reduce how much you have to do and let LLM do its thing, making the whole process easier for you.
 ### 1.2. References
 - [40+ AWESOME RESUME STATISTICS [2023]: WHAT JOB SEEKERS NEED TO KNOW](https://www.zippia.com/advice/resume-statistics/)
-### 1.3. Refer to this [Paper](https://arxiv.org/abs/2402.06221) for more details.
+<!-- ### 1.3. Refer to this [Paper](https://arxiv.org/abs/2402.06221) for more details. -->
 
 ## 2. Setup, Installation and Usage
 ### 2.1. Prerequisites
@@ -138,10 +132,7 @@ address = {New York, NY, USA},
 }
 ```
 
-## 4. License
-JobLLM is under the MIT License and is supported for commercial usage.
-
-## 5. TODO
+## 4. TODO
 Need to find way to install following command in streamlit
 ```sh
 ollama
@@ -150,7 +141,7 @@ playwright
 "ollama pull bge-m3"
 ```
 
-## 4. References
+## 5. References
  - [Prompt engineering Guidelines](https://platform.openai.com/docs/guides/prompt-engineering)
  - [Overleaf LaTex Resume Template](https://www.overleaf.com/latex/templates/jakes-resume-anonymous/cstpnrbkhndn)
  - [Combining LaTeX with Python](https://tug.org/tug2019/slides/slides-ziegenhagen-python.pdf)
