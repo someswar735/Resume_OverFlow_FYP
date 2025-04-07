@@ -13,6 +13,7 @@ import base64
 import shutil
 import zipfile
 import streamlit as st
+import subprocess
 
 from zlm import AutoApplyModel
 from zlm.utils.utils import display_pdf, download_pdf, read_file, read_json
@@ -89,6 +90,40 @@ def create_overleaf_button(resume_path):
     </html>
     """
     st.components.v1.html(html_code, height=40)
+
+def run_auto_job_apply():
+    """Function to run the auto job apply script"""
+    try:
+        with st.status("Starting automated job application process..."):
+            st.write("Initializing LinkedIn job application bot...")
+            script_path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 
+                                      "Auto_job_applier_linkedIn-main", "runAiBot.py")
+            
+            # Run the script as a subprocess
+            process = subprocess.Popen(["python3", script_path], 
+                                     stdout=subprocess.PIPE, 
+                                     stderr=subprocess.PIPE,
+                                     text=True)
+            
+            # Stream output in real-time
+            for line in iter(process.stdout.readline, ''):
+                if line:
+                    st.write(line.strip())
+                else:
+                    break
+                    
+            # Get the return code
+            return_code = process.wait()
+            
+            if return_code == 0:
+                st.success("Job application process completed successfully!")
+            else:
+                error_output = process.stderr.read()
+                st.error(f"Job application process failed with error code {return_code}")
+                st.code(error_output)
+                
+    except Exception as e:
+        st.error(f"Failed to run auto job application: {e}")
 
 try:
     # st.markdown("<h1 style='text-align: center; color: grey;'>Get :green[Job Aligned] :orange[Killer] Resume :sunglasses:</h1>", unsafe_allow_html=True)
@@ -184,6 +219,8 @@ try:
                 st.markdown("<h3 style='text-align: center;'>Please paste job description text and try again!</h3>", unsafe_allow_html=True)
                 st.stop()
 
+            resume_path = None
+            
             # Build Resume
             if get_resume_button:
                 with st.status("Building resume..."):
@@ -249,6 +286,18 @@ try:
                 st.markdown(cv_details, unsafe_allow_html=True)
                 st.markdown("---")
                 st.toast("cover letter generated successfully!", icon="✅")
+            
+            # Add Auto Job Apply button after resume is generated
+            if resume_path:
+                st.subheader("Automated Job Application")
+                auto_apply_col1, auto_apply_col2 = st.columns([0.7, 0.3])
+                
+                with auto_apply_col1:
+                    st.write("Ready to apply? Click the button to automatically apply for matching jobs on LinkedIn using your newly generated resume.")
+                
+                with auto_apply_col2:
+                    if st.button("Auto Apply for Jobs 🚀", type="primary", use_container_width=True):
+                        run_auto_job_apply()
             
             st.toast(f"Done", icon="👍🏻")
             st.success(f"Done", icon="👍🏻")
