@@ -1,0 +1,24 @@
+Job ID,Job Link,Resume Tried,Date listed,Date Tried,Assumed Reason,Stack Trace,External Job link,Screenshot Name
+4176394132,https://www.linkedin.com/jobs/view/4176394132,Previous resume,Unknown,2025-04-08 21:26:24.392494,Problem in Easy Applying,"Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=135.0.7049.52)
+Stacktrace:
+#0 0x5dc7187ede6a <unknown>
+#1 0x5dc71829f640 <unknown>
+#2 0x5dc7182854ee <unknown>
+#3 0x5dc7182ae139 <unknown>
+#4 0x5dc71831f079 <unknown>
+#5 0x5dc71833c132 <unknown>
+#6 0x5dc718316523 <unknown>
+#7 0x5dc7182e2ef3 <unknown>
+#8 0x5dc7182e3b51 <unknown>
+#9 0x5dc7187b2d2b <unknown>
+#10 0x5dc7187b6c01 <unknown>
+#11 0x5dc71879a512 <unknown>
+#12 0x5dc7187b7774 <unknown>
+#13 0x5dc71877e90f <unknown>
+#14 0x5dc7187dbfb8 <unknown>
+#15 0x5dc7187dc196 <unknown>
+#16 0x5dc7187eccb6 <unknown>
+#17 0x7f1f5da94ac3 <unknown>
+",Easy Applied,Not Available

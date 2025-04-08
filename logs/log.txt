@@ -1,0 +1,406 @@
+IF YOU HAVE MORE THAN 10 TABS OPENED, PLEASE CLOSE OR BOOKMARK THEM! Or it's highly likely that application will just open browser and not do anything!
+Default profile directory not found. Logging in with a guest profile, Web history will not be saved!
+Downloading Chrome Driver... This may take some time. Undetected mode requires download every run!
+Seems like login attempt failed! Possibly due to wrong credentials or already logged in! Try logging in manually!
+Seems like you're not logged in!
+Seems like you're not logged in!
+Seems like you're not logged in!
+In Applier Main
+Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=135.0.7049.52)
+Stacktrace:
+#0 0x574f3435ee6a <unknown>
+#1 0x574f33e10640 <unknown>
+#2 0x574f33df64ee <unknown>
+#3 0x574f33e1f139 <unknown>
+#4 0x574f33e90079 <unknown>
+#5 0x574f33e98b48 <unknown>
+#6 0x574f33e87718 <unknown>
+#7 0x574f33e53ef3 <unknown>
+#8 0x574f33e54b51 <unknown>
+#9 0x574f34323d2b <unknown>
+#10 0x574f34327c01 <unknown>
+#11 0x574f3430b512 <unknown>
+#12 0x574f34328774 <unknown>
+#13 0x574f342ef90f <unknown>
+#14 0x574f3434cfb8 <unknown>
+#15 0x574f3434d196 <unknown>
+#16 0x574f3435dcb6 <unknown>
+#17 0x716521e94ac3 <unknown>
+
+2025-04-08 21:21:36.971501
+
+
+Total runs:                     1
+Jobs Easy Applied:              0
+External job links collected:   0
+                              ----------
+Total applied or collected:     0
+
+Failed jobs:                    0
+Irrelevant jobs skipped:        0
+
+IF YOU HAVE MORE THAN 10 TABS OPENED, PLEASE CLOSE OR BOOKMARK THEM! Or it's highly likely that application will just open browser and not do anything!
+Default profile directory not found. Logging in with a guest profile, Web history will not be saved!
+Downloading Chrome Driver... This may take some time. Undetected mode requires download every run!
+Seems like login attempt failed! Possibly due to wrong credentials or already logged in! Try logging in manually!
+Seems like you're not logged in!
+
+########################################################################################################################
+
+Date and Time: 2025-04-08 21:25:20.966746
+Cycle number: 1
+Currently looking for jobs posted within 'Past week' and sorting them by ''
+The CSV file 'all excels/all_applied_applications_history.csv' does not exist.
+
+________________________________________________________________________________________________________________________
+
+
+>>>> Now searching for "Software Engineer" <<<<
+
+
+Setting search location as: "United States"
+Failed to find Pagination element, hence couldn't scroll till end!
+Failed to find an element with given classes
+
+-@-
+
+Trying to Apply to "Frontend Developer | Compunnel Inc" job. Job ID: 4193197902
+HR info was not given for "Frontend Developer" with Job ID: 4193197902!
+Failed to calculate the date posted!
+invalid literal for int() with base 10: 'Dallas,'
+
+About the job
+Job Description
+We are looking for a great JavaScript developer who is proficient with React.js. Your primary focus will be on developing user interface components and implementing them following well-known React.js middleware (such as React Hooks or Redux). You will ensure that these components and the overall application are robust and easy to maintain. You will coordinate with the rest of the team working on different layers of the infrastructure. Therefore, a commitment to collaborative problem solving, sophisticated design, and quality product is important.
+ Responsibilities
+Developing new user-facing features using React and Node.
+Building reusable components and front-end libraries for future use
+Translating designs and wireframes into high quality code
+Optimizing components for maximum performance across a vast array of browsers and web-capable devices.
+Develop new products/features for web that adhere to best practices 
+Define the technical requirements that are required to develop the product/feature 
+Architect and design the technical solution and implement the solution 
+Deliver a hybrid user experience to be easily portable between web and mobile. 
+Explore, assess and prototype new technologies to drive innovation and problem solving 
+Partner and collaborate with stakeholders and other technology teams 
+Identify and analyze open source/market solutions 
+ Skills
+Strong proficiency in JavaScript/TypeScript, including DOM manipulation and the JavaScript object model
+Thorough understanding of React.js and its core principles
+Experience with popular React.js workflows (such as Hooks or Redux)
+Familiarity with newer specifications of ECMA-Script.
+Must be hands on with all fundamental libraries and concepts to work a front-end application.
+Experience with NoSQL data bases like Mongo DB.
+Knowledge of isomorphic React is a plus
+Familiarity with RESTful APIs
+Knowledge of modern authorization mechanisms, such as JSON Web Token, oAuth.
+Familiarity with modern front-end build pipelines and tools
+Experience with common front-end development tools such as Babel, Webpack, NPM, etc.
+Ability to understand business requirements and translate them into technical requirements
+A knack for benchmarking and optimization
+Familiarity with git version control tool
+
+Couldn't find experience requirement in About the Job!
+Click Failed! Didn't find 'Next'
+Answered the following questions...
+{('mobile phone number', '9951904116', 'text', '9951904116'), ('Phone country code [ "List of phone country codes" ]', 'Yes', 'select', 'India (+91)'), ('Email address [  "Select an option", "someswar735@gmail.com", ]', 'Yes', 'select', 'someswar735@gmail.com'), ('Are you comfortable working in an onsite setting? [  "Yes"<Yes>, "No"<No>, ]', '"Yes"<Yes>', 'radio', '"Yes"<Yes>'), ('how many years of work experience do you have with react.js?', '1', 'text', '1'), ('how many years of work experience do you have with javascript?', '1', 'text', '1')}
+Click Failed! Didn't find 'Review'
+Click Failed! Didn't find 'Done'
+Successfully saved "Frontend Developer | Compunnel Inc" job. Job ID: 4193197902 info
+
+-@-
+
+Already applied to "Frontend Software Engineer | Acceleran" job. Job ID: 4126192270!
+
+-@-
+
+Failed to click "Software Engineering Internship | Brightwel" job on details button. Job ID: 4176394132!
+Click Failed! Didn't find 'Discard'
+Trying to Apply to "Software Engineering Internship | Brightwel" job. Job ID: 4176394132
+HR info was not given for "Software Engineering Internship" with Job ID: 4176394132!
+Failed to calculate the date posted!
+invalid literal for int() with base 10: 'Atlanta,'
+
+About the job
+Who We Are: 
+
+Brightwell is a pioneering payments company dedicated to providing innovative solutions and technology for global money transfers while navigating the intricate landscape of regulatory requirements. Through strategic partnerships and technological advancements, Brightwell facilitates cross-border payments, offering a range of options including bank transfers, mobile wallets, and cash transactions. With a focus on unparalleled fraud detection and transaction monitoring supported by a team of global payment experts, Brightwell empowers businesses and individuals to seamlessly manage and move money worldwide.
+
+ 
+
+What We Need: 
+
+We’re searching for a Software Engineering Intern to join our crew. As our ideal Software Engineering Intern, you will assist the engineering team in configuring client-specific configurations, such as pricing, in Retool.You should be goal-oriented and driven by results! 
+
+Open to: 
+
+Undergraduate students majoring in Software Engineering, Computer Science, or similar
+Rising seniors and/or rising juniors only
+
+What You’ll Do: 
+
+The goal for our Software Engineering Intern is to have a completed project at the end of the internship that they can showcase. Here are some of the things you will be working on and will be able to take ownership of: 
+
+ReTool configurations
+Communication with the Implementations team on progress
+Collaboration with the Product and Program Management teams on client requests
+
+As a Software Engineering Intern, you have: 
+
+Working knowledge of basic software development
+Basic understanding of Agile methodology
+Possess good critical thinking, communication, and presentation skills. 
+Flexibility and ability to adapt to changes quickly; always willing to roll up your sleeves and get things done. 
+Ability to take ownership of your work. 
+A coachable mentality and eagerness to learn more. 
+
+ Details: 
+
+This internship will be part-time, on average 15-20 hours/week. Hours are flexible and will be decided between you and your director. Most time will be spent working on-site at our office in the Smyrna/Vinings area (4401 Northside Pkwy, Atlanta, GA 30327). 
+This is a PAID internship. Interns will be paid $20.00/hr. 
+
+ 
+
+Brightwell is an equal opportunity employer (EOE) committed to employing a diverse workforce and sustaining an inclusive culture. 
+
+Powered by JazzHR
+
+bpXtCmzPv8
+
+Couldn't find experience requirement in About the Job!
+Click Failed! Didn't find 'Next'
+Answered the following questions...
+{('first name', 'Sivakavi', 'text', 'Sivakavi'), ('last name', 'Someswar', 'text', 'Someswar'), ('mobile phone number', '9951904116', 'text', '9951904116'), ('Phone country code [ "List of phone country codes" ]', 'Yes', 'select', 'India (+91)'), ('Email address [  "Select an option", "someswar735@gmail.com", ]', 'Yes', 'select', 'someswar735@gmail.com'), ('address', 'ightwel', 'text', '')}
+Click Failed! Didn't find 'Review'
+Click Failed! Didn't find 'Submit application'
+Click Failed! Didn't find 'Done'
+Failed to Easy apply!
+Somewhere in Easy Apply process
+Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=135.0.7049.52)
+Stacktrace:
+#0 0x5dc7187ede6a <unknown>
+#1 0x5dc71829f640 <unknown>
+#2 0x5dc7182854ee <unknown>
+#3 0x5dc7182ae139 <unknown>
+#4 0x5dc71831f079 <unknown>
+#5 0x5dc71833c132 <unknown>
+#6 0x5dc718316523 <unknown>
+#7 0x5dc7182e2ef3 <unknown>
+#8 0x5dc7182e3b51 <unknown>
+#9 0x5dc7187b2d2b <unknown>
+#10 0x5dc7187b6c01 <unknown>
+#11 0x5dc71879a512 <unknown>
+#12 0x5dc7187b7774 <unknown>
+#13 0x5dc71877e90f <unknown>
+#14 0x5dc7187dbfb8 <unknown>
+#15 0x5dc7187dc196 <unknown>
+#16 0x5dc7187eccb6 <unknown>
+#17 0x7f1f5da94ac3 <unknown>
+
+2025-04-08 21:26:24.391976
+Failed to find Job listings!
+In Applier
+Message: invalid session id
+Stacktrace:
+#0 0x5dc7187ede6a <unknown>
+#1 0x5dc71829f493 <unknown>
+#2 0x5dc7182e209f <unknown>
+#3 0x5dc718316656 <unknown>
+#4 0x5dc718310fb7 <unknown>
+#5 0x5dc7183100f5 <unknown>
+#6 0x5dc718268838 <unknown>
+#7 0x5dc7187b2d2b <unknown>
+#8 0x5dc7187b6c01 <unknown>
+#9 0x5dc71879a512 <unknown>
+#10 0x5dc7187b7774 <unknown>
+#11 0x5dc71877e90f <unknown>
+#12 0x5dc7182665b1 <unknown>
+#13 0x7f1f5da29d90 <unknown>
+
+2025-04-08 21:26:24.404802
+In Applier Main
+Message: invalid session id
+Stacktrace:
+#0 0x5dc7187ede6a <unknown>
+#1 0x5dc71829f493 <unknown>
+#2 0x5dc7182e209f <unknown>
+#3 0x5dc718316656 <unknown>
+#4 0x5dc718310fb7 <unknown>
+#5 0x5dc7183100f5 <unknown>
+#6 0x5dc718268838 <unknown>
+#7 0x5dc7187b2d2b <unknown>
+#8 0x5dc7187b6c01 <unknown>
+#9 0x5dc71879a512 <unknown>
+#10 0x5dc7187b7774 <unknown>
+#11 0x5dc71877e90f <unknown>
+#12 0x5dc7182665b1 <unknown>
+#13 0x7f1f5da29d90 <unknown>
+
+2025-04-08 21:26:24.410484
+
+
+Total runs:                     1
+Jobs Easy Applied:              1
+External job links collected:   0
+                              ----------
+Total applied or collected:     1
+
+Failed jobs:                    1
+Irrelevant jobs skipped:        0
+
+
+All the best with your future interviews.
+
+
+Best regards,
+Sai Vignesh Golla
+https://www.linkedin.com/in/saivigneshgolla/
+
+
+Closing the browser...
+IF YOU HAVE MORE THAN 10 TABS OPENED, PLEASE CLOSE OR BOOKMARK THEM! Or it's highly likely that application will just open browser and not do anything!
+Default profile directory not found. Logging in with a guest profile, Web history will not be saved!
+Downloading Chrome Driver... This may take some time. Undetected mode requires download every run!
+
+
+Total runs:                     1
+Jobs Easy Applied:              0
+External job links collected:   0
+                              ----------
+Total applied or collected:     0
+
+Failed jobs:                    0
+Irrelevant jobs skipped:        0
+
+
+The only limit to our realization of tomorrow will be our doubts of today. - Franklin D. Roosevelt
+
+
+Best regards,
+Sai Vignesh Golla
+https://www.linkedin.com/in/saivigneshgolla/
+
+
+Closing the browser...
+IF YOU HAVE MORE THAN 10 TABS OPENED, PLEASE CLOSE OR BOOKMARK THEM! Or it's highly likely that application will just open browser and not do anything!
+Default profile directory not found. Logging in with a guest profile, Web history will not be saved!
+Downloading Chrome Driver... This may take some time. Undetected mode requires download every run!
+Login successful!
+
+########################################################################################################################
+
+Date and Time: 2025-04-08 21:41:54.358684
+Cycle number: 1
+Currently looking for jobs posted within 'Past week' and sorting them by ''
+
+________________________________________________________________________________________________________________________
+
+
+>>>> Now searching for "Software Engineer" <<<<
+
+
+Setting search location as: "United States"
+Search Location input was not given!
+Setting the preferences failed!
+Failed to find Job listings!
+In Applier
+Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=135.0.7049.52)
+Stacktrace:
+#0 0x562b6f592e6a <unknown>
+#1 0x562b6f044640 <unknown>
+#2 0x562b6f018ed5 <unknown>
+#3 0x562b6f0c3ece <unknown>
+#4 0x562b6f0e1132 <unknown>
+#5 0x562b6f0bb523 <unknown>
+#6 0x562b6f087ef3 <unknown>
+#7 0x562b6f088b51 <unknown>
+#8 0x562b6f557d2b <unknown>
+#9 0x562b6f55bc01 <unknown>
+#10 0x562b6f53f512 <unknown>
+#11 0x562b6f55c774 <unknown>
+#12 0x562b6f52390f <unknown>
+#13 0x562b6f580fb8 <unknown>
+#14 0x562b6f581196 <unknown>
+#15 0x562b6f591cb6 <unknown>
+#16 0x7e949c894ac3 <unknown>
+
+2025-04-08 21:42:08.694439
+
+
+Total runs:                     1
+Jobs Easy Applied:              0
+External job links collected:   0
+                              ----------
+Total applied or collected:     0
+
+Failed jobs:                    0
+Irrelevant jobs skipped:        0
+
+
+Opportunities don't happen, you create them. - Chris Grosser
+
+
+Best regards,
+Sai Vignesh Golla
+https://www.linkedin.com/in/saivigneshgolla/
+
+
+Closing the browser...
+IF YOU HAVE MORE THAN 10 TABS OPENED, PLEASE CLOSE OR BOOKMARK THEM! Or it's highly likely that application will just open browser and not do anything!
+Default profile directory not found. Logging in with a guest profile, Web history will not be saved!
+Downloading Chrome Driver... This may take some time. Undetected mode requires download every run!
+In Applier Main
+Invalid input for username. Expecting a String of length at least 5!
+2025-04-08 21:53:03.143585
+
+
+Total runs:                     1
+Jobs Easy Applied:              0
+External job links collected:   0
+                              ----------
+Total applied or collected:     0
+
+Failed jobs:                    0
+Irrelevant jobs skipped:        0
+
+
+Opportunities don't happen, you create them. - Chris Grosser
+
+
+Best regards,
+Sai Vignesh Golla
+https://www.linkedin.com/in/saivigneshgolla/
+
+
+Closing the browser...
+IF YOU HAVE MORE THAN 10 TABS OPENED, PLEASE CLOSE OR BOOKMARK THEM! Or it's highly likely that application will just open browser and not do anything!
+Default profile directory not found. Logging in with a guest profile, Web history will not be saved!
+Downloading Chrome Driver... This may take some time. Undetected mode requires download every run!
+Seems like login attempt failed! Possibly due to wrong credentials or already logged in! Try logging in manually!
+
+
+Total runs:                     1
+Jobs Easy Applied:              0
+External job links collected:   0
+                              ----------
+Total applied or collected:     0
+
+Failed jobs:                    0
+Irrelevant jobs skipped:        0
+
+
+The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. - Steve Jobs
+
+
+Best regards,
+Sai Vignesh Golla
+https://www.linkedin.com/in/saivigneshgolla/
+
+
+Closing the browser...

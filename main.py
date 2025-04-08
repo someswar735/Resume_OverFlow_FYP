@@ -39,4 +39,3 @@ if __name__ == "__main__":
     create_resume_cv(
         args.url, args.master_data, args.api_key, args.provider, args.model, args.downloads_dir
     )
-    
