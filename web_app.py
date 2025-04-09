@@ -141,7 +141,12 @@ def safe_read_file(file_path, mode="rb"):
 # Function to run the LinkedIn auto-apply script
 def run_linkedin_auto_apply():
     try:
+        # First try to install pyautogui
+        st.info("Installing required dependencies...")
+        os.system("pip install pyautogui")
+        
         script_path = os.path.join(os.path.dirname(__file__), "Auto_job_applier_linkedIn-main", "runAiBot.py")
+
         if os.path.exists(script_path):
             st.toast("Starting LinkedIn Auto Apply process...", icon="🚀")
             process = subprocess.Popen(["python", script_path], 
@@ -182,6 +187,7 @@ def run_linkedin_auto_apply():
             st.error(f"LinkedIn Auto Apply script not found at: {script_path}")
     except Exception as e:
         st.error(f"An error occurred while running LinkedIn Auto Apply: {e}")
+        st.error("Note: GUI automation tools like pyautogui may not work in cloud environments.")
         import traceback
         st.code(traceback.format_exc())
 
