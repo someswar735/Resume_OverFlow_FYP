@@ -404,3 +404,56 @@ https://www.linkedin.com/in/saivigneshgolla/
 
 
 Closing the browser...
+IF YOU HAVE MORE THAN 10 TABS OPENED, PLEASE CLOSE OR BOOKMARK THEM! Or it's highly likely that application will just open browser and not do anything!
+Default profile directory not found. Logging in with a guest profile, Web history will not be saved!
+Downloading Chrome Driver... This may take some time. Undetected mode requires download every run!
+Seems like login attempt failed! Possibly due to wrong credentials or already logged in! Try logging in manually!
+
+
+Total runs:                     1
+Jobs Easy Applied:              0
+External job links collected:   0
+                              ----------
+Total applied or collected:     0
+
+Failed jobs:                    0
+Irrelevant jobs skipped:        0
+
+
+Every job is a self-portrait of the person who does it. Autograph your work with excellence.
+
+
+Best regards,
+Sai Vignesh Golla
+https://www.linkedin.com/in/saivigneshgolla/
+
+
+Closing the browser...
+IF YOU HAVE MORE THAN 10 TABS OPENED, PLEASE CLOSE OR BOOKMARK THEM! Or it's highly likely that application will just open browser and not do anything!
+Default profile directory not found. Logging in with a guest profile, Web history will not be saved!
+Downloading Chrome Driver... This may take some time. Undetected mode requires download every run!
+Seems like login attempt failed! Possibly due to wrong credentials or already logged in! Try logging in manually!
+In Applier Main
+HTTPConnectionPool(host='localhost', port=41211): Max retries exceeded with url: /session/fd729eab52e700a28a42a395e26106cb/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x712a88309630>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2025-04-09 19:50:40.480054
+
+
+Total runs:                     1
+Jobs Easy Applied:              0
+External job links collected:   0
+                              ----------
+Total applied or collected:     0
+
+Failed jobs:                    0
+Irrelevant jobs skipped:        0
+
+
+Opportunities don't happen, you create them. - Chris Grosser
+
+
+Best regards,
+Sai Vignesh Golla
+https://www.linkedin.com/in/saivigneshgolla/
+
+
+Closing the browser...

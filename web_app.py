@@ -141,7 +141,7 @@ def safe_read_file(file_path, mode="rb"):
 # Function to run the LinkedIn auto-apply script
 def run_linkedin_auto_apply():
     try:
-        script_path = os.path.expanduser("~/Documents/Final Year Project-FYP/Resume_Overflow/Auto_job_applier_linkedIn-main/runAiBot.py")
+        script_path = os.path.join(os.path.dirname(__file__), "Auto_job_applier_linkedIn-main", "runAiBot.py")
         if os.path.exists(script_path):
             st.toast("Starting LinkedIn Auto Apply process...", icon="🚀")
             process = subprocess.Popen(["python", script_path], 
